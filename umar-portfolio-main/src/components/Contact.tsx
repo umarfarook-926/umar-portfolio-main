@@ -12,7 +12,7 @@ const Contact = () => {
     {
       name: "LinkedIn",
       icon: Linkedin,
-      url: "https://www.linkedin.com/in/mohamed-umar-farook-a-3516042b7/",
+      url: "https://www.linkedin.com/in/aumarfarook/",
       color: "hover:text-blue-400",
     },
   ];
@@ -36,7 +36,7 @@ const Contact = () => {
 
         <div className="mb-12">
           <a
-            href="https://mail.google.com/mail/?view=cm&fs=1&to=mufumar926@gmail.com"
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=aumarfarook97@gmail.com"
             target="_blank"
             className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-cyan-500 to-blue-500 text-white rounded-lg font-semibold text-lg hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-cyan-500/25"
           >
