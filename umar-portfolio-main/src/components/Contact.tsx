@@ -64,7 +64,7 @@ const Contact = () => {
 
         <div className="border-t border-slate-700 pt-8">
           <p className="text-gray-400">
-            © 2024 Mohamed Umar Farook. Built with React & Tailwind CSS.
+            © 2025 Mohamed Umar Farook. Built with React & Tailwind CSS.
           </p>
         </div>
       </div>
