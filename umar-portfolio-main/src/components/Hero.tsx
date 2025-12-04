@@ -30,7 +30,7 @@ const Hero = () => {
           </h1>
 
           <p className="text-xl sm:text-2xl text-gray-300 mb-8 max-w-2xl mx-auto leading-relaxed">
-            I'm a .NET Developer with 2.5 years of experience specializing in
+            I'm a .NET Full Stack Developer with 3 years of experience specializing in
             ASP.NET Core, C#, Web API, and SQL Server. I build and support
             enterprise applications, solve production issues, and deliver
             reliable backend solutions that improve system performance.
@@ -45,7 +45,7 @@ const Hero = () => {
             </button>
 
             <a
-              href="https://drive.google.com/file/d/1GfakwR_vyzAG86CatIF8rdsXT5TK9FfV/view?usp=sharing"
+              href="https://drive.google.com/file/d/1UWuQvs4trhwzX_0tM1JqHVDzO6e0N9rW/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-3 border-2 border-cyan-400 text-cyan-400 rounded-lg font-semibold hover:bg-cyan-400 hover:text-slate-900 transition-all duration-300"
