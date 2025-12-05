@@ -70,7 +70,7 @@ const About = () => {
             className="space-y-6 text-center lg:text-left"
           >
             <p className="text-lg md:text-xl text-gray-300 leading-relaxed">
-              I'm <span className="text-cyan-400 font-semibold">Mohamed Umar Farook</span>, a .NET Developer with 2.5 years of experience specializing in ASP.NET Core, C#, MVC, Web API, SQL Server, and application support within enterprise environments. I design and enhance backend systems and help keep mission-critical applications stable and performant.
+              I'm <span className="text-cyan-400 font-semibold">Mohamed Umar Farook</span>, a .NET Developer with 3 years of experience specializing in ASP.NET Core, C#, MVC, Web API, SQL Server, and application support within enterprise environments. I design and enhance backend systems and help keep mission-critical applications stable and performant.
             </p>
 
             <p className="text-lg md:text-xl text-gray-300 leading-relaxed">
